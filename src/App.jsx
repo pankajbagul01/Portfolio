@@ -833,10 +833,10 @@ export default function Portfolio() {
           <p style={{ color: "#8b84b0", fontSize: 16, lineHeight: 1.8, marginBottom: 40 }}>
             I'm actively looking for <strong style={{ color: "#c3bde8" }}>internship opportunities</strong>. Whether it's a MERN project, open-source collaboration, or just a developer chat — I'm always open!
           </p>
-          <a href="mailto:pankajbagul01@gmail.com" style={{ display: "inline-block", fontFamily: "'Space Grotesk',sans-serif", fontSize: 22, fontWeight: 700, color: "#a78bfa", textDecoration: "none", border: "1px solid rgba(124,106,255,0.3)", padding: "16px 36px", borderRadius: 60, marginBottom: 40, transition: "all 0.25s", background: "rgba(124,106,255,0.05)" }}
+          <a href="mailto:contact.with.pankaj01@gmail.com" style={{ display: "inline-block", fontFamily: "'Space Grotesk',sans-serif", fontSize: 22, fontWeight: 700, color: "#a78bfa", textDecoration: "none", border: "1px solid rgba(124,106,255,0.3)", padding: "16px 36px", borderRadius: 60, marginBottom: 40, transition: "all 0.25s", background: "rgba(124,106,255,0.05)" }}
             onMouseEnter={e => { e.currentTarget.style.background = "rgba(124,106,255,0.12)"; e.currentTarget.style.transform = "translateY(-2px)"; e.currentTarget.style.boxShadow = "0 0 40px rgba(124,106,255,0.2)"; }}
             onMouseLeave={e => { e.currentTarget.style.background = "rgba(124,106,255,0.05)"; e.currentTarget.style.transform = "none"; e.currentTarget.style.boxShadow = "none"; }}>
-            pankajbagul01@gmail.com
+            contact.with.pankaj01@gmail.com
           </a>
           <div style={{ display: "flex", justifyContent: "center", gap: 16 }}>
             {[

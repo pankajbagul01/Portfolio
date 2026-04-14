@@ -1,16 +1,66 @@
-# React + Vite
+# 💼 Pankaj Bagul Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio website 🚀  
+This portfolio showcases my projects, skills, and experience as a B.Tech student and aspiring full-stack web developer.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 👨‍💻 About Me
 
-## React Compiler
+Hi, I'm **Pankaj Bagul** 👋  
+I am currently pursuing **B.Tech in Computer Science (AI & ML)** from **VIT Pune** (Expected Graduation: 2028).
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- 💻 Full Stack Web Developer  
+- 🧠 DSA Problem Solver (Java)  
+- 🎨 UI/UX Enthusiast  
 
-## Expanding the ESLint configuration
+I love building real-world applications and continuously improving my development and problem-solving skills.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 Tech Stack
+
+- **Frontend:** HTML, CSS, JavaScript, React.js  
+- **Backend:** Django, Node.js  
+- **Languages:** Java, Python, C  
+- **Database:** MongoDB, SQL  
+- **Tools:** Git, VS Code, IntelliJ, Postman  
+
+---
+
+## 📂 Projects
+
+Here are some of my key projects:
+
+### 🔹 Smart Waste Management System
+- Built a system for efficient waste collection and monitoring  
+- Features: bin tracking, reporting system, route optimization  
+
+### 🔹 Mess Mate
+- A platform for students and mess owners  
+- Features: menu updates, attendance tracking, notifications  
+
+### 🔹 Quiz Platform
+- Developed using Python  
+- Features: interactive quizzes and scoring system  
+
+### 🔹 Voting System (C)
+- Console-based voting system  
+- Ensures secure and fair voting  
+
+---
+
+## 📸 Live Demo
+
+👉 *(Add your deployed link here after hosting)*  
+Example: https://your-portfolio-link.vercel.app
+
+---
+
+## 🛠 Installation & Setup
+
+Clone the repository:
+
+```bash
+git clone https://github.com/pankajbagul01/your-repo-name.git
+cd your-repo-name
